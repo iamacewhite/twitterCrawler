@@ -30,10 +30,12 @@ def writeData(cache2, DIR):
         time = datetime.strftime(datetime.now(), "%Y-%m-%d %H-%M-%S")
         filename = time + ".json"
         if not os.path.exists(DIR):
-            os.makedirs(DIR)
+            os.mkdir(DIR)
+        data = []
+        for obj in cache2:
+            data.append(obj)
         with open(os.path.join(DIR, filename), 'wb') as file:
-            for obj in cache2:
-                file.write(obj)
+            file.write(json.dumps(data))
         with open(os.path.join(DIR, filename), 'rb') as f_in, gzip.open(os.path.join(DIR, filename + '.gz'), 'wb') as f_out:
             f_out.writelines(f_in)
         os.remove(os.path.join(DIR, filename))

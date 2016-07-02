@@ -30,7 +30,7 @@ def writeData(cache2, DIR):
         time = datetime.strftime(datetime.now(), "%Y-%m-%d %H-%M-%S")
         filename = time + ".json"
         if not os.path.exists(DIR):
-            os.makedirs(DIR)
+            os.mkdir(DIR)
         with open(os.path.join(DIR, filename), 'wb') as file:
             for obj in cache2:
                 file.write(obj)

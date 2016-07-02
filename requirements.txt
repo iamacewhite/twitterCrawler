@@ -1,6 +1,2 @@
-adium-theme-ubuntu==0.3.4
 langdetect==1.0.6
-scour==0.32
-six==1.10.0
 twitter==1.17.1
-unity-lens-photos==1.0
