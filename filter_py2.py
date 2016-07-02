@@ -1,4 +1,4 @@
-import os, gzip, json, re, ast, traceback, urllib
+import os, gzip, json, re, ast, traceback, urllib, sys
 from datetime import datetime
 
 def filter():
@@ -61,10 +61,6 @@ def get_photos(all_urls):
                 print(str(datetime.now()) + ' ' + str(e) + '\n')
                 traceback.print_exc()
 
-
-
-
-
-
 if __name__ == "__main__":
+    sys.stdout = open('filter.log', 'a+')
     filter()
