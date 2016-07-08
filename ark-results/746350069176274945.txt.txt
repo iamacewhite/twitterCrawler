@@ -1,0 +1,7 @@
+widen	V	0.7877
+gap	N	0.9178
+rich	A	0.9396
+poor	N	0.5133
+american	N	0.4872
+eat	V	0.8452
+

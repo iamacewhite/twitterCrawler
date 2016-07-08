@@ -1,0 +1,6 @@
+#inspooftheday	#	0.6022
+pass	V	0.5951
+note	N	0.9596
+brighten	V	0.7255
+day	N	0.9779
+

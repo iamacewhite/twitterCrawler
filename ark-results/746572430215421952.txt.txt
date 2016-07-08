@@ -1,0 +1,5 @@
+compani	G	0.2779
+social	A	0.9781
+media	N	0.9780
+#smm	#	0.8952
+

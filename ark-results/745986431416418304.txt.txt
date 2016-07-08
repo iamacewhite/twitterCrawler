@@ -1,0 +1,12 @@
+scotu	^	0.4352
+uphold	V	0.8984
+lower	A	0.9312
+court	N	0.9823
+rule	N	0.8698
+univers	G	0.5746
+texas	^	0.9636
+'	,	0.9718
+affirm	V	0.9133
+action	N	0.9712
+program	N	0.9977
+

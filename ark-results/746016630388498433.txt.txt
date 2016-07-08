@@ -1,0 +1,7 @@
+#icymi	#	0.6877
+injur	G	0.3131
+mass	N	0.9209
+shoot	N	0.9204
+german	N	0.3351
+cinema	N	0.9965
+

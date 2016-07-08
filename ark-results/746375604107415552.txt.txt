@@ -1,0 +1,8 @@
+david	^	0.9965
+cameron	^	0.9997
+secur	^	0.3755
+place	N	0.6218
+worst	A	0.9681
+prime	A	0.5378
+minist	N	0.4245
+

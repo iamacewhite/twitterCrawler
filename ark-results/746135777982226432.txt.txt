@@ -1,0 +1,8 @@
+blake	^	0.9977
+live	A	0.7180
+reaction	N	0.9988
+found	V	0.9848
+wear	V	0.9467
+beyonc	N	0.4032
+ear	N	0.9927
+

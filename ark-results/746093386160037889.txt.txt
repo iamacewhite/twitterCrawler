@@ -1,0 +1,8 @@
+updat	^	0.3464
+netflix	^	0.9875
+latest	A	0.9514
+compani	N	0.4849
+minim	V	0.3234
+abstract	A	0.9746
+logo	N	0.9944
+

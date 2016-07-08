@@ -1,0 +1,8 @@
+selena	^	0.9873
+gomez	^	0.9891
+danc	V	0.2552
+young	A	0.9942
+fan	N	0.9934
+make	V	0.9395
+day	N	0.9942
+

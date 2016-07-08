@@ -1,0 +1,6 @@
+march	^	0.9197
+machin	^	0.7318
+render	V	0.9526
+popul	N	0.4694
+redund	V	0.4901
+

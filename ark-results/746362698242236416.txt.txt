@@ -1,0 +1,4 @@
+charact	G	0.1947
+hope	V	0.8529
+make	V	0.8853
+

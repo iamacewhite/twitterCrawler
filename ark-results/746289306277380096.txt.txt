@@ -1,0 +1,11 @@
+burner	N	0.8164
+unveil	V	0.9513
+ghostbot	D	0.2404
+smart	A	0.9979
+chat	N	0.9210
+bot	N	0.9578
+who'll	V	0.6138
+repli	V	0.6701
+unwant	V	0.3121
+text	N	0.5009
+

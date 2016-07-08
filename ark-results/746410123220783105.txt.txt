@@ -1,0 +1,7 @@
+putin	^	0.8757
+#brexit	#	0.6385
+result	N	0.8827
+arrog	N	0.4501
+british	N	0.5582
+leadership	N	0.9979
+

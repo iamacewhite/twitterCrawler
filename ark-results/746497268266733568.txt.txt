@@ -1,0 +1,8 @@
+gordon	^	0.9969
+ramsay	^	0.9924
+mobil	^	0.8044
+game	N	0.9211
+bring	V	0.9970
+heat	^	0.7553
+profan	^	0.5451
+

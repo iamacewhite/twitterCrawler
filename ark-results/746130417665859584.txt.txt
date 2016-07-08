@@ -1,0 +1,10 @@
+britain	^	0.9809
+referendum	N	0.9775
+leav	G	0.3588
+eu	^	0.6714
+close	A	0.6056
+call	N	0.9087
+earli	A	0.8465
+result	N	0.9947
+trickl	N	0.5310
+

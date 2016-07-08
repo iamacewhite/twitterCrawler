@@ -1,0 +1,8 @@
+morn	N	0.6405
+spoiler	N	0.8670
+latest	A	0.6734
+absurd	A	0.9993
+rumor	N	0.9938
+agent	N	0.9944
+shield	N	0.9700
+

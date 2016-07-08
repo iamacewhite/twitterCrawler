@@ -1,0 +1,10 @@
+graphic	A	0.6033
+describ	N	0.8318
+connect	V	0.8613
+oil	N	0.9305
+ga	^	0.3946
+product	N	0.9895
+human	N	0.5488
+caus	P	0.9385
+earthquak	N	0.3987
+

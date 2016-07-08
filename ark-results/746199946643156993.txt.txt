@@ -1,0 +1,9 @@
+trade	N	0.7427
+briefli	N	0.6197
+halt	V	0.8490
+nikkei	^	0.9027
+futur	^	0.5397
+circuit	^	0.8397
+breaker	N	0.7074
+kick	N	0.8447
+

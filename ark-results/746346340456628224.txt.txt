@@ -1,0 +1,8 @@
+announc	G	0.3654
+hiatu	G	0.2052
+farewel	^	0.3265
+tour	N	0.7710
+debut	N	0.9767
+ghost	N	0.8884
+video	N	0.9976
+

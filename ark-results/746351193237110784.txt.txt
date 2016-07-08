@@ -1,0 +1,9 @@
+photographi	N	0.4062
+shift	N	0.9602
+ident	N	0.8377
+insta	P	0.5112
+world	N	0.8130
+public	A	0.7382
+privat	N	0.6311
+secret	A	0.5754
+

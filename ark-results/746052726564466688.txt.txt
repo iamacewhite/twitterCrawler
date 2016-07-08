@@ -1,0 +1,6 @@
+billboard	N	0.6085
+#touringconf	#	0.6729
+head	N	0.9310
+west	A	0.4725
+coast	N	0.9977
+

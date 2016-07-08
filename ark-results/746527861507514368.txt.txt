@@ -1,0 +1,7 @@
+announc	^	0.3625
+album	N	0.9393
+share	V	0.6828
+river	N	0.6001
+jehnni	G	0.2823
+beth	^	0.6051
+

@@ -1,0 +1,8 @@
+gave	V	0.9711
+sugar	N	0.9784
+dairi	N	0.8891
+grain	N	0.9510
+alcohol	N	0.9906
+day	N	0.9972
+happen	V	0.9976
+

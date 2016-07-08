@@ -1,0 +1,10 @@
+updat	G	0.3373
+firefight	N	0.8235
+respond	V	0.9589
+southern	A	0.8716
+ca	^	0.7267
+spill	N	0.8751
+gallon	N	0.9608
+crude	A	0.6777
+oil	N	0.9956
+

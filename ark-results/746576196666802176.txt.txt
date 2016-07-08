@@ -1,0 +1,10 @@
+want	V	0.9785
+man	N	0.9018
+wear	V	0.8643
+handcuff	N	0.7857
+escap	N	0.5737
+polic	G	0.4801
+custodi	^	0.3021
+canoga	^	0.9902
+park	^	0.6668
+

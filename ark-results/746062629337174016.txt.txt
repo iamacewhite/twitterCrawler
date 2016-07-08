@@ -1,0 +1,6 @@
+rep	V	0.2924
+fattah	^	0.9102
+resign	V	0.9474
+effect	N	0.8195
+immedi	G	0.6476
+

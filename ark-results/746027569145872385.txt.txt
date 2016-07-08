@@ -1,0 +1,6 @@
+katherin	^	0.6425
+heigl	^	0.9241
+josh	^	0.9987
+kelley	^	0.9970
+expect	V	0.9787
+

@@ -1,0 +1,4 @@
+pretti	R	0.6426
+straightforward	A	0.9981
+easi	N	0.5536
+

@@ -1,0 +1,10 @@
+vote	V	0.7211
+leav	A	0.2081
+european	N	0.3470
+union	N	0.9645
+latest	A	0.9511
+#brexit	#	0.6781
+news	N	0.9410
+live	V	0.6723
+blog	N	0.9276
+

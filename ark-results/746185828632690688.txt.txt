@@ -1,0 +1,7 @@
+remain	V	0.9777
+leav	^	0.2426
+area	^	0.8427
+undeclar	^	0.7218
+#euref	^	0.4751
+coverag	^	0.6165
+

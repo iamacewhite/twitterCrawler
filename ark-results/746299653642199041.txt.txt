@@ -1,0 +1,4 @@
+watch	V	0.9381
+netflix	^	0.9174
+offlin	N	0.3447
+

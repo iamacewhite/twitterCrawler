@@ -1,0 +1,8 @@
+carney	^	0.7355
+boe	^	0.7529
+extra	A	0.9316
+billion	$	0.5743
+pound	N	0.9667
+market	N	0.9350
+action	N	0.9902
+

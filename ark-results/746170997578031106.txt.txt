@@ -1,0 +1,5 @@
+play	V	0.9383
+catch	V	0.6549
+hospit	G	0.2684
+innov	G	0.8568
+

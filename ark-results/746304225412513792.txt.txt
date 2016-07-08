@@ -1,0 +1,5 @@
+devic	^	0.2961
+drain	V	0.8708
+eat	V	0.9440
+work	N	0.9803
+

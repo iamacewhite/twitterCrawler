@@ -1,0 +1,7 @@
+smell	V	0.6821
+comet	N	0.8828
+deadli	N	0.7578
+pong	N	0.9913
+live	V	0.6094
+tale	N	0.9896
+

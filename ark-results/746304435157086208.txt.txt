@@ -1,0 +1,4 @@
+happen	V	0.9854
+peopl	A	0.2991
+twitter	^	0.7676
+

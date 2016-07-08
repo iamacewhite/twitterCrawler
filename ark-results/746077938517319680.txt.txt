@@ -1,0 +1,9 @@
+find	V	0.9728
+largest	A	0.9864
+predatori	N	0.7935
+dinosaur	N	0.9794
+nizar	^	0.8380
+ibrahim	^	0.9703
+bigger	A	0.9786
+plan	N	0.9844
+

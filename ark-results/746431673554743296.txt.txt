@@ -1,0 +1,7 @@
+jason	^	0.9991
+roy	^	0.9940
+watch	V	0.9697
+reach	V	0.8831
+centuri	^	0.3273
+england	^	0.9857
+

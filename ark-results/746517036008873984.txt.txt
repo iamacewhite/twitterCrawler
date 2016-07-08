@@ -1,0 +1,10 @@
+fatal	A	0.8786
+deadli	N	0.6060
+california	^	0.8567
+wildfir	^	0.3118
+gov	^	0.8659
+brown	^	0.7412
+declar	^	0.7636
+state	N	0.6163
+emerg	N	0.8271
+

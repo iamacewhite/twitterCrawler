@@ -1,0 +1,9 @@
+zika	^	0.6699
+trigger	V	0.4739
+surg	N	0.8263
+demand	N	0.9273
+abort	N	0.6457
+latin	^	0.4232
+america	^	0.9976
+studi	^	0.4299
+

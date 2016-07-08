@@ -1,0 +1,7 @@
+custom	A	0.8212
+border	N	0.9285
+patrol	N	0.9867
+onlin	G	0.3786
+presenc	G	0.2272
+border	N	0.8495
+

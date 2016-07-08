@@ -1,0 +1,6 @@
+democrat	^	0.7807
+republican	^	0.5417
+fight	N	0.8789
+basebal	N	0.3827
+field	N	0.7676
+

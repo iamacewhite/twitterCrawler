@@ -1,0 +1,8 @@
+groom	N	0.5017
+respons	N	0.3363
+rattlesnak	N	0.7809
+bite	V	0.7718
+wed	^	0.4727
+photo	N	0.9908
+shoot	N	0.8098
+

@@ -1,0 +1,7 @@
+learn	V	0.9787
+lot	N	0.6211
+interview	N	0.9743
+art	N	0.9894
+defend	V	0.9855
+enjoy	V	0.8901
+

@@ -1,0 +1,6 @@
+top	A	0.6656
+econom	G	0.3909
+financ	G	0.9213
+stori	G	0.8571
+#amnc	#	0.8610
+

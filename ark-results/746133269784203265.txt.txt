@@ -1,0 +1,9 @@
+kyli	^	0.5340
+jenner	^	0.9959
+make	V	0.9511
+boyfriend	N	0.9115
+partynextdoor	G	0.2440
+sexi	A	0.8894
+music	N	0.9988
+video	N	0.9966
+

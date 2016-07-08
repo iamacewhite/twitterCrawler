@@ -1,0 +1,7 @@
+craziest	A	0.9442
+moment	N	0.9931
+quot	V	0.3693
+oj	^	0.8701
+made	V	0.9746
+america	^	0.9899
+

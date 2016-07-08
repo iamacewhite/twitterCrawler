@@ -1,0 +1,9 @@
+facial	A	0.9506
+recognit	N	0.8542
+system	N	0.9861
+stumbl	N	0.5764
+confront	V	0.9934
+million	$	0.3551
+face	N	0.9847
+databas	N	0.4514
+

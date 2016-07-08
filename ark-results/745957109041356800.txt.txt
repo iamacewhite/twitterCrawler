@@ -1,0 +1,7 @@
+person	N	0.8144
+denim	A	0.6492
+jacket	N	0.9925
+summer	N	0.9915
+wear	V	0.8062
+topper	N	0.9699
+

@@ -1,0 +1,4 @@
+song	N	0.9822
+play	V	0.9312
+hooki	N	0.3709
+

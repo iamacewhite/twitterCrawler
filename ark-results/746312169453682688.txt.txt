@@ -1,0 +1,6 @@
+market	N	0.5003
+cameron	^	0.9820
+resign	V	0.9858
+#brexit	#	0.6538
+#eurefresult	#	0.9846
+

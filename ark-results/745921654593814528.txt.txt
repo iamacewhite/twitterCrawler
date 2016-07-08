@@ -1,0 +1,7 @@
+record	N	0.6945
+trump	N	0.4531
+clinton	^	0.9533
+long	A	0.9354
+distanc	N	0.7371
+debat	N	0.3171
+

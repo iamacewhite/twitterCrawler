@@ -1,0 +1,6 @@
+built	V	0.9418
+empir	N	0.5656
+made	V	0.9884
+money	N	0.9827
+talk	V	0.9618
+

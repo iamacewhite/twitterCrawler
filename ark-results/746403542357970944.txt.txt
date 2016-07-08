@@ -1,0 +1,6 @@
+pope	^	0.8064
+franci	^	0.9939
+react	V	0.9781
+brexit	N	0.2265
+vote	V	0.8427
+

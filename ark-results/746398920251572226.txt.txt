@@ -1,0 +1,10 @@
+watch	V	0.9422
+grate	A	0.6638
+fan	N	0.9951
+hit	V	0.8835
+video	N	0.9894
+#vspink	#	0.4917
+model	N	0.9584
+hil	G	0.4421
+ht	U	0.3552
+

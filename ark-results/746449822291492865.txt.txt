@@ -1,0 +1,9 @@
+peopl	G	0.2749
+die	V	0.9550
+flood	N	0.7493
+state	N	0.9524
+west	N	0.3153
+virginia	^	0.9275
+state	N	0.7343
+governor	N	0.9259
+

@@ -1,0 +1,8 @@
+draper	^	0.5358
+sterl	^	0.5804
+trump	^	0.9197
+deal	N	0.9109
+knock	V	0.8094
+door	N	0.9844
+find	V	0.9349
+

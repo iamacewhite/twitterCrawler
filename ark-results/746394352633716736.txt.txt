@@ -1,0 +1,6 @@
+game	N	0.9196
+throne	N	0.9839
+give	V	0.9727
+red	A	0.9794
+wed	N	0.4477
+

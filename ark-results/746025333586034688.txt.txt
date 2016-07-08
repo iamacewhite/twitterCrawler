@@ -1,0 +1,8 @@
+sturgil	^	0.3234
+simpson	^	0.9848
+john	^	0.9990
+prine	^	0.9745
+state	N	0.7518
+perform	V	0.9232
+paradis	^	0.5005
+

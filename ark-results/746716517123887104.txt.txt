@@ -1,0 +1,7 @@
+england	^	0.8871
+jame	^	0.9945
+anderson	^	0.9883
+pakistan	^	0.9919
+test	N	0.9547
+lord	N	0.8034
+

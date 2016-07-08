@@ -1,0 +1,5 @@
+sander	^	0.7592
+doesn	V	0.7755
+gonna	V	0.9914
+nomine	V	0.3516
+

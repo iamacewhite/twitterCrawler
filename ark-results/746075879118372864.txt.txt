@@ -1,0 +1,6 @@
+watch	V	0.9455
+dave	^	0.9932
+grohl	^	0.9847
+play	V	0.8530
+cann	V	0.9861
+

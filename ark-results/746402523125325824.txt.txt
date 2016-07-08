@@ -1,0 +1,12 @@
+watch	V	0.9461
+speak	V	0.9001
+econom	^	0.1999
+forum	N	0.8130
+expect	V	0.9523
+address	N	0.9378
+uk	N	0.6898
+vote	N	0.7914
+exit	N	0.5422
+eu	^	0.4110
+#brexit	#	0.9193
+
